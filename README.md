@@ -1,4 +1,4 @@
-# Capstone2-EPAFuelEconomy
+# Capstone 2-EPA Fuel Economy
 Create a hypothesis based on the provided fuel data and found a correlation betweent size of the car, and the quality of the fuel used after 15k miles driven.
 
 Utilized 38,000 records from years 1984 to 2017
